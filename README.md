@@ -1,5 +1,3 @@
 # github_dev
 
-hello git. #2
-
-#7
+hello git. #6
